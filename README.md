@@ -2,11 +2,11 @@
 
 ## Название
 
-PEREPECHI (я не придумал название)
+PEREPECHNO
 
 ## Состав группы
 
-Мельников Виктор (github: ViktorMelnikof), Танаев Иван (github: Ваня впиши гитхаб)
+Мельников Виктор (github: ViktorMelnikof), Танаев Иван (github: ivantanaevv)
 
 ## Идея компании
 
